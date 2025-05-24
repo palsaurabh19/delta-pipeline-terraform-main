@@ -1,1 +1,1 @@
-# delta-pipeline-terraform-main
+# delta-pipeline-terraform
